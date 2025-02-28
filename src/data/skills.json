@@ -3,7 +3,7 @@
                 {
                         "name": "JavaScript",
                         "description": "",
-                        "icon": "./img/techstack/Javascript.svg",
+                        "icon": "./img/techstack/javascript.svg",
                         "iconBg": ""
                 },
                 {
@@ -21,13 +21,13 @@
                 {
                         "name": "TailwindCSS",
                         "description": "Better CSS",
-                        "icon": "./img/techstack/Tailwind.svg",
+                        "icon": "./img/techstack/tailwind.svg",
                         "iconBg": ""
                 },
                 {
                         "name": "Node.js",
                         "description": "JavaScript for Backend",
-                        "icon": "./img/techstack/Nodejs.svg",
+                        "icon": "./img/techstack/nodejs.svg",
                         "iconBg": ""
                 },
                 {
