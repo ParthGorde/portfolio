@@ -14,8 +14,6 @@ export default function Skills() {
             key={skill.name}
             style={{ transform: "none" }}
           >
-            style={{ transform: "none" }}
-          >
             <div
               className="group flex aspect-square h-full w-auto items-center justify-center rounded-lg"
               style={{
