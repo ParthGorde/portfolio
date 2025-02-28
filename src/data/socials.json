@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/ParthGorde/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/ParthGorde",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:ParthsGorde07@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+        "career": [
+                {
+                        "name": "Electronic Arts - Forage",
+                        "href": "https://www.theforage.com/",
+                        "title": "Software Engineering Virtual Experience Program",
+                        "logo": "./img/career/ea.png",
+                        "start": "Feb 2025",
+                        "description": [
+                                "Proposed a new feature for the EA Sports College Football game and wrote a Feature Proposal.",
+                                "Built a class diagram and created a C++ header file for class definitions.",
+                                "Patched a bugfix and optimized the EA Sports College Football codebase by implementing an improved data structure."
+                        ]
+                },
+                {
+                        "name": "SevenMentor Pvt Ltd",
+                        "href": "https://www.sevenmentor.com/",
+                        "title": "Full Stack Web Developer Intern",
+                        "logo": "./img/career/SevenMentor.jpg",
+                        "start": "July 2024",
+                        "end": "Dec 2024",
+                        "description": [
+                                "Designed and developed a full-stack social media platform with authentication, real-time interactions, and user-generated content.",
+                                "Built dynamic user interfaces using React.js with responsive design.",
+                                "Developed backend APIs using Node.js and Express.js, integrating MongoDB for scalable data management.",
+                                "Implemented real-time notifications and chat features using WebSockets to enhance user engagement."
+                        ]
+                },
+                {
+                        "name": "Upstream",
+                        "href": "",
+                        "title": "Tech Intern",
+                        "logo": "./img/career/upstream.jpg",
+                        "start": "Jan 2023",
+                        "end": "Feb 2023",
+                        "description": [
+                                "Developed web applications using HTML, CSS, Flask, and Python, demonstrating coding and problem-solving skills.",
+                                "Executed comprehensive CRUD operations for web applications.",
+                                "Gained practical experience in upstream technology, contributing to critical projects."
+                        ]
+                }
+        ]
+}

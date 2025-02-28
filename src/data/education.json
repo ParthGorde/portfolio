@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "name": "MET Bhujbal Knowledge City, Nashik",
+      "href": "https://metbkcengg.ac.in/",
+      "title": "Bachelor of Engineering",
+      "logo": "./img/education/met.png",
+      "start": "Aug 2020",
+      "end": "May 2024",
+      "description": [
+        "Major : Information Technology",
+        "CGPA : 8.04/10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+        "skills": [
+                {
+                        "name": "JavaScript",
+                        "description": "",
+                        "icon": "./img/techstack/Javascript.svg",
+                        "iconBg": ""
+                },
+                {
+                        "name": "React.js",
+                        "description": "JavaScript Library",
+                        "icon": "./img/techstack/react.svg",
+                        "iconBg": "#11282F"
+                },
+                {
+                        "name": "Typescript",
+                        "description": "JavaScript but better",
+                        "icon": "./img/techstack/typescript.svg",
+                        "iconBg": ""
+                },
+                {
+                        "name": "TailwindCSS",
+                        "description": "Better CSS",
+                        "icon": "./img/techstack/Tailwind.svg",
+                        "iconBg": ""
+                },
+                {
+                        "name": "Node.js",
+                        "description": "JavaScript for Backend",
+                        "icon": "./img/techstack/Nodejs.svg",
+                        "iconBg": ""
+                },
+                {
+                        "name": "MongoDB",
+                        "description": "Database",
+                        "icon": "./img/techstack/mongo.svg",
+                        "iconBg": ""
+                },
+                {
+                        "name": "C#",
+                        "description": "OOP, DSA, Game Dev",
+                        "icon": "./img/techstack/csharp.svg",
+                        "iconBg": "     "
+                }
+        ]
+}

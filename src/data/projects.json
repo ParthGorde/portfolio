@@ -1,0 +1,96 @@
+{
+  "projects": [
+    {
+      "name": "The Cabin - First-Person Horror Game",
+      "description": "Developing a first-person horror game using Unity and C#, featuring immersive sound design, dynamic lighting, and interactive environments. Implementing physics-based interactions, puzzle mechanics, and AI-driven enemy behavior to enhance gameplay. Utilizing NavMesh AI for intelligent path-finding and optimizing performance with efficient asset management and lighting techniques.",
+      "image": "/img/projects/theCabin.jpg",
+      "tags": ["Unity", "C#", "Blender"],
+      "links": [
+        {
+          "name": "Work in Progress",
+          "href": "https://github.com/ParthGorde",
+          "icon": "hourglass"
+        }
+      ]
+    },
+    {
+      "name": "Echo.ai - AI for Mental Health Advice",
+      "description": "An AI-powered chatbot designed to provide mental health support using Gemini AI. Built a secure and empathetic conversational system, and structured a scalable backend for real-time interactions.",
+      "image": "/img/projects/echoai.jpg",
+      "tags": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Clerk Auth",
+        "Gemini AI"
+      ],
+      "links": [
+        {
+          "name": "Source Code",
+          "href": "https://github.com/ParthGorde/EchoAI",
+          "icon": "github"
+        },
+        {
+          "name": "Coming Soon",
+          "href": "https://Echoai.vercel.app",
+          "icon": "external-link"
+        }
+      ]
+    },
+    {
+      "name": "Personal Portfolio (this site !!)",
+      "description": "A responsive portfolio website built with Next.js, showcasing projects, skills, and experience. Implemented server-side rendering for performance optimization and integrated SEO best practices.",
+      "image": "/img/projects/portfolio.png",
+      "tags": ["Next.js", "React", "Tailwind CSS", "Vercel"],
+      "links": [
+        {
+          "name": "Source Code",
+          "href": "https://github.com/ParthGorde/portfolio",
+          "icon": "github"
+        },
+        {
+          "name": "This Site!",
+          "href": "https://ParthGorde.vercel.app",
+          "icon": "external-link"
+        }
+      ]
+    },
+    {
+      "name": "ColorForge",
+      "description": "A dynamic web app that generates and copies random color palettes with smooth animations.",
+      "image": "/img/projects/ColorForge.png",
+      "tags": ["React", "JavaScript", "CSS"],
+      "links": [
+        {
+          "name": "Source Code",
+          "href": "https://github.com/ParthGorde/Color-Palette-Generator",
+          "icon": "github"
+        },
+        {
+          "name": "Live Demo",
+          "href": "https://Paletteforge.vercel.app",
+          "icon": "external-link"
+        }
+      ]
+    },
+    {
+      "name": "Quotely",
+      "description": "A responsive app that fetches random quotes from an API and allows sharing on social media.",
+      "image": "/img/projects/Quotely.png",
+      "tags": ["React", "JavaScript", "CSS"],
+      "links": [
+        {
+          "name": "Source Code",
+          "href": "https://github.com/ParthGorde/Quote-App",
+          "icon": "github"
+        },
+        {
+          "name": "Live Demo",
+          "href": "https://quote-by-thrap.vercel.app/",
+          "icon": "external-link"
+        }
+      ]
+    }
+  ]
+}
