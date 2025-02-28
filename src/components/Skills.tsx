@@ -10,8 +10,10 @@ export default function Skills() {
       {skills.map((skill) => {
         return (
            <div
-            className="flex h-full w-full flex-row items-center space-x-3 rounded-xl bg-muted p-2 transition-colors duration-150 hover:border-border hover:bg-card sm:flex-col sm:space-x-0 sm:space-y-2 sm:p-3"
+            className="flex h-full w-full flex-row space-x-3 rounded-xl bg-muted p-2 transition-colors duration-150 hover:border-border hover:bg-card"
             key={skill.name}
+            style={{ transform: "none" }}
+          >
             style={{ transform: "none" }}
           >
             <div
